@@ -30,6 +30,11 @@ This repository documents our exploration of quantum computing applications in i
 - **Simulations**: Conducted simulated experiments with programmable quantum sensors to explore clock precision enhancement techniques.
 - **Optimization**: Utilized scipy library and its `minimize` function as a substitute for the COBYLA optimizer to optimize the quantum circuits.
 
+## Implemented Prototypes:
+
+- **Quantum Circuit Code**: The code for the implemented quantum circuit can be found [here](https://github.com/ShivaniDM/qrise2024-infleqtion-challenge/blob/main/circuit.py).
+- **Circuit Results**: The results of the quantum circuit simulations are visualized [here](https://github.com/ShivaniDM/qrise2024-infleqtion-challenge/blob/main/circuit_result.png).
+
 ## Challenges and Solutions
 
 - **Version Compatibility**: Faced issues with different versions of Qiskit. Resolved by debugging and optimizing code for compatibility.
