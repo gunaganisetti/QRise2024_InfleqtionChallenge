@@ -44,11 +44,15 @@ This repository documents our exploration of quantum computing applications in i
 
 - **Successes**: Successfully implemented solutions and gained valuable insights into quantum computing applications for atomic clock design.
 - **Limitations**: Interpretability challenges with VQE and integration complexities remain unresolved.
+- 
 
 ## Future Directions
 
 - **Version Compatibility**: Address version compatibility issues with Qiskit and explore alternative optimization algorithms.
 - **Integration Optimization**: Investigate synergies with machine learning techniques for improved integration of error correction and feedback control systems.
+- we will be using scipy optimiser which is compatible with latest version of qiskit to implement VQE algorithm on our circuit.
+- Scipy optimiser reference.py
+- this file references implementation of VQE algorithm using scipy optimiser method.
 
 ## Pros and Cons of Quantum Algorithms
 
